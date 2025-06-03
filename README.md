@@ -82,6 +82,8 @@ This model is optimized for Power BI's performance and allows for intuitive expl
 
 *To explore the full interactive dashboard, please download the `.pbix` file from this repository and open it using Microsoft Power BI Desktop.*
 
+*Note: The `assets/` folder is intended for project-related images.*
+
 ## 👤 Author
 
 * Laisvis Remeikis
