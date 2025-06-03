@@ -85,5 +85,5 @@ This model is optimized for Power BI's performance and allows for intuitive expl
 ## 👤 Author
 
 * Laisvis Remeikis
-* 🔗 [LinkedIn](https://www.linkedin.com/in/laisvis-remeikis/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/laisvisr/)
 ---
