@@ -1,10 +1,10 @@
 # AdventureWorks Sales Performance Dashboard - Power BI Project
 
-## ℹ️ Overview
+## Overview
 
 This project involves the enhancement and refinement of a Power BI sales dashboard for the fictional company AdventureWorks. The primary goal was to improve the existing dashboard's visual appeal, clarity, interactivity, and to incorporate new, valuable business insights based on the AdventureWorks dataset. This dashboard aims to provide a clear and user-friendly tool for analyzing sales performance across various dimensions.
 
-## 📊 Dashboard Showcase
+## Dashboard Showcase
 
 ### 1. Main KPIs & Sales Overview
 This initial view provides a high-level snapshot of key sales performance indicators, overall sales trends, and a breakdown of sales by type over time.
@@ -71,7 +71,7 @@ This model is optimized for Power BI's performance and allows for intuitive expl
 
 ![Data Model View](assets/7-schema.png)
 
-## 💡 Key Enhancements & Added Value
+## Key Enhancements & Added Value
 
 * **New KPIs Introduced:** Added "Average Profit Per Customer," "Year-Over-Year Growth %," and "Average Days To Ship" for a more comprehensive business overview.
 * **Improved Pareto Analysis:** Implemented a clear Pareto chart for validating sales person contributions.
